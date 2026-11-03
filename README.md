@@ -1,3 +1,8 @@
+> **Anything Studio web deployment:** This repository publishes the browser file viewer at
+> [anything.argenis.net](https://anything.argenis.net). The desktop, CLI, and MCP features
+> described below come from the upstream Craft Anything project and are not available in
+> this browser deployment. The original licenses and attribution are preserved here.
+
 <p align="center">
   <a href="https://getartcraft.com/">
     <picture>
